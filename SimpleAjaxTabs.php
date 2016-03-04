@@ -1,5 +1,12 @@
 <?php
-
+/**
+ * author: Chris Backhouse
+ * url: chris-backhouse.com
+ * Really Simple Tabs with Ajax
+ * 
+ * Free to use, please consider posting back any enhancements
+ **/
+ 
 namespace backend\components;
 
 
